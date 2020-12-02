@@ -1,0 +1,1 @@
+gcc main_test.cpp registers.cpp UART_test.cpp -std=c++17 -lstdc++ -o UART_test

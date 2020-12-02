@@ -1,0 +1,1 @@
+gcc Sensor_test.cpp -I HAL -std=c++17 -lstdc++ -o Sensor

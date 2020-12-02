@@ -1,0 +1,3 @@
+[submodule "1_remove_dependency/catch2"]
+	path = 1_remove_dependency/catch2
+	url = https://github.com/catchorg/Catch2.git

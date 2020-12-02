@@ -1,0 +1,1 @@
+gcc Double/uart.cpp Sensor_test_template.cpp -std=c++17 -I Double -lstdc++ -o Sensor_template
